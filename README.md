@@ -9,9 +9,8 @@ Install dependencies
 Run API tests using Playwright
 
 - Clone the Repository
-🚀 Install Playwright
-- Install Playwright and required browsers:
+🚀 Install Playwright :
 npm install @playwright/test
 
-▶️ Running Tests
+▶️ Running Tests :
 npx playwright test
